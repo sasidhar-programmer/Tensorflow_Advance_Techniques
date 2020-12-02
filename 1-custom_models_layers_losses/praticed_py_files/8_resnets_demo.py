@@ -16,7 +16,8 @@ class CNNResidual(Model) :
         x = inputs 
         for layer in self.HiddenCNN: 
             x = layer(x) 
-            return inputs + x 
+
+        return inputs + x 
 
 
 class DNNResidual(Model) : 
@@ -31,7 +32,8 @@ class DNNResidual(Model) :
         x = inputs 
         for layer in self.HiddenDNN : 
             x = layer(x) 
-            return inputs + x  
+
+        return inputs + x  
 
 
 class MyResidual(Model) : 
