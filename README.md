@@ -26,7 +26,7 @@ This Specialization is for early and mid-career software and machine learning en
 
 ### 3 - Advanced Computer Vision with TensorFlow 
 
-In this course you will learn 
+In this course you will 
 
 a) Explore image classification, image segmentation, object localization, and object detection. Apply transfer learning to object localization and detection.
 b) Apply object detection models such as regional-CNN and ResNet-50, customize existing models, and build your own models to detect, localize, and label your own rubber duck images.
@@ -38,4 +38,15 @@ The DeepLearning.AI TensorFlow: Advanced Techniques Specialization introduces th
 
 This Specialization is for early and mid-career software and machine learning engineers with a foundational understanding of TensorFlow who are looking to expand their knowledge and skill set by learning advanced TensorFlow features to build powerful models.
 
-### 4 - Generative Deep Learning with TensorFlow
+### 4 - Generative Deep Learning with TensorFlow 
+
+In this course, you will 
+
+a) Learn neural style transfer using transfer learning: extract the content of an image (eg. swan), and the style of a painting (eg. cubist or impressionist), and combine the content and style into a new image. 
+b) Build simple AutoEncoders on the familiar MNIST dataset, and more complex deep and convolutional architectures on the Fashion MNIST dataset, understand the difference in results of the DNN and CNN AutoEncoder models, identify ways to de-noise noisy images, and build a CNN AutoEncoder using TensorFlow to output a clean image from a noisy one.
+c) Explore Variational AutoEncoders (VAEs) to generate entirely new data, and generate anime faces to compare them against reference images. 
+d) Learn about GANs; their invention, properties, architecture, and how they vary from VAEs, understand the function of the generator and the discriminator within the model, the concept of 2 training phases and the role of introduced noise, and build your own GAN that can generate faces.
+
+The DeepLearning.AI TensorFlow: Advanced Techniques Specialization introduces the features of TensorFlow that provide learners with more control over their model architecture, and gives them the tools to create and train advanced ML models.  
+
+This Specialization is for early and mid-career software and machine learning engineers with a foundational understanding of TensorFlow who are looking to expand their knowledge and skill set by learning advanced TensorFlow features to build powerful models.
